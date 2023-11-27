@@ -1,6 +1,6 @@
 # Weather App
 
-This projectfocuses on by using Flutter developing user-friendlyWeather App that enables global city locations, providing real-time weather
+This project focuses on by using Flutter developing user-friendly Weather App that enables global city locations, providing real-time weather
 conditions.
 The intuitive interface displays currenttemperature, weather description, and icons representing conditions.
 
